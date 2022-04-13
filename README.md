@@ -32,7 +32,6 @@ Editor and extension are listed as following:
 >
 >   - use "@import" in the header file to import the content.
 >
->   - 
 
 ## Files
 
