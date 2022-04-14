@@ -1,10 +1,10 @@
-# Markdown templates for PDF page with header and footer in MPE
+# Markdown templates for PDF page in MPE
 
 ## Purpose
 
 ![PDF Header Footer Generation with MPE](./images/vsc_logo_pdf.gif)
 
-The project presents the markdown templates for MPE (Markdown Preview Enhanced) extension to generate PDF pages with header, footer and page break via with Chrome (puppeteer). The settings are demonstrated in the front matter of markdown file.
+The project presents the markdown templates for MPE (Markdown Preview Enhanced) extension to generate PDF pages with **header**, **footer** and **page break** via with Chrome (puppeteer). The settings are demonstrated in the front matter of markdown file.
 
 Editor and extension are listed as following:
 
